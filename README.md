@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# OHMYFOOD
 
-You can use the [editor on GitHub](https://github.com/namasa-web/OpenclassroomsProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Projet 3 du parcours développeur web Openclassrooms : "Dynamisez une page web avec des animations CSS"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Scénario
 
-### Markdown
+Vous venez d’être recruté chez Ohmyfood!, en tant que développeur junior. Félicitations !
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ohmyfood! est une jeune startup qui voudrait s'imposer sur le marché de la restauration. L'objectif est de développer un site 100% mobile qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée. Finis, les temps d'attente au restaurant !
 
-```markdown
-Syntax highlighted code block
+Vous faites partie des 4 heureux élus qui ont la chance de travailler sur ce beau projet.
 
-# Header 1
-## Header 2
-### Header 3
+L’équipe se compose de :
 
-- Bulleted
-- List
+Paul, le CTO du futur site ;
+Fanny, l’UX designer recrutée pour mettre le site aux couleurs de Paris ;
+Anissa, commerciale chargée de démarcher les restaurants ;
+et vous, chargé du développement du site.
+Anissa est en plein démarchage pour ce projet, auprès des restaurateurs. Elle vous interpelle à la machine à café :
 
-1. Numbered
-2. List
+Tu connais pas la nouvelle ? Tu te rappelles le responsable commercial de ton resto préféré ? J’ai réussi à le convaincre, avec 3 autres, de déposer leurs cartes en ligne ! Je t’envoie le dossier avec les 4 menus dans l’après-midi. À toi de jouer, maintenant !
 
-**Bold** and _Italic_ and `Code` text
+Vous décidez alors, avec l’équipe, que le site contiendra 4 menus dans un premier temps. Voici le brief que vous établissez avec le CTO, Paul.
+De retour à votre bureau, vous trouvez un post-it de Fanny.
+Vous trouvez les maquettes du site dans votre boîte mail, envoyées par Fanny.
 
-[Link](url) and ![Image](src)
-```
+![ohmyfood](https://user-images.githubusercontent.com/79422739/117824447-c9fed580-b26e-11eb-9286-f88943e497a6.png)
+![ohmyfoodrest](https://user-images.githubusercontent.com/79422739/117824463-ccf9c600-b26e-11eb-920a-797b718a4c1f.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/namasa-web/OpenclassroomsProject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Compétences évaluées
+- Mettre en œuvre des effets CSS graphiques avancés
+- Mettre en place une structure de navigation pour un site web
+- Assurer la cohérence graphique d'un site web
