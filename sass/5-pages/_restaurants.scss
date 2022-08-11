@@ -43,6 +43,20 @@
         overflow: hidden;
         opacity: 0;
         animation: cards 1s forwards ease-out;
+        &:hover {
+          .price {
+            margin-right: 5rem;
+            transition: margin-right 500ms;
+          }
+          .check {
+            transform: translateX(0);
+            transition: transform 500ms;
+            i {
+              transform: rotate(360deg);
+              transition: transform 500ms;
+            }
+          }
+        } 
         .restaurants__desc {
           overflow: hidden;
           white-space: nowrap;
@@ -63,20 +77,7 @@
           align-items: flex-end;
           margin: 0.75rem;
         }
-        &:hover {
-          .price {
-            margin-right: 5rem;
-            transition: margin-right 500ms;
-          }
-          .check {
-            transform: translateX(0);
-            transition: transform 500ms;
-            i {
-              transform: rotate(360deg);
-              transition: transform 500ms;
-            }
-          }
-        }
+    
         &__1 {
           @include start(1);
         }
